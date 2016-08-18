@@ -1,0 +1,8 @@
+{
+    "name": "leytech/magento-leytech-singleproductcategoryredirect",
+    "type": "magento-module",
+    "description": "Module to redirect categories that contain only a single product to the product detail page.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
