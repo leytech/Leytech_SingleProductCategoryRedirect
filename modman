@@ -1,2 +1,2 @@
-app/code/local/Leytech/SingleProductCategoryRedirect                 app/code/local/Leytech/SingleProductCategoryRedirect
-app/etc/modules/Leytech_SingleProductCategoryRedirect.xml            app/etc/modules/Leytech_SingleProductCategoryRedirect.xml
+src/app/code/community/Leytech/SingleProductCategoryRedirect         app/code/community/Leytech/SingleProductCategoryRedirect
+src/app/etc/modules/Leytech_SingleProductCategoryRedirect.xml        app/etc/modules/Leytech_SingleProductCategoryRedirect.xml
