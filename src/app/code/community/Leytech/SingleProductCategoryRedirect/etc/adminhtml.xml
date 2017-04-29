@@ -18,7 +18,7 @@
                                 <children>
                                     <leytech_singleproductcategoryredirect translate="title" module="leytech_singleproductcategoryredirect">
                                         <title>Leytech Single Product Category Redirect</title>
-                                        <sort_order>1008650</sort_order>
+                                        <sort_order>12190</sort_order>
                                     </leytech_singleproductcategoryredirect>
                                 </children>
                             </config>
