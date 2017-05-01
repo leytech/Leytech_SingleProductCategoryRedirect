@@ -9,4 +9,11 @@
 class Leytech_SingleProductCategoryRedirect_Helper_Data extends Mage_Core_Helper_Abstract
 {
 
+    const XML_PATH_IS_ENABLED = 'leytech_singleproductcategoryredirect/settings/enabled';
+
+    public function isEnabled()
+    {
+        return (bool) Mage::getStoreConfig(self::XML_PATH_IS_ENABLED);
+    }
+
 }
