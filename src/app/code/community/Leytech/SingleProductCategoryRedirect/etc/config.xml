@@ -39,7 +39,7 @@
     <default>
         <leytech_singleproductcategoryredirect>
             <settings>
-                <enable_ext>0</enable_ext>
+                <enabled>0</enabled>
             </settings>
         </leytech_singleproductcategoryredirect>
     </default>
